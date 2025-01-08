@@ -6,10 +6,24 @@ We present MTRAG, a comprehensive and diverse human-generated multi-turn RAG dat
 
 ## Paper
 
-The paper describing our dataset and experiments is available [here]().
+The paper describing the benchmark and experiments is available on Arxiv:
 
-**MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems**\
-Yannis Katsis, Sara Rosenthal, Kshitij Fadnis, Chulaka Gunasekara, Young-Suk Lee, Lucian Popa, Vraj Shah, Huaiyu Zhu, Danish Contractor, Marina Danilevsky
+[MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2501.03468)\
+_Yannis Katsis, Sara Rosenthal, Kshitij Fadnis, Chulaka Gunasekara, Young-Suk Lee, Lucian Popa, Vraj Shah, Huaiyu Zhu, Danish Contractor, Marina Danilevsky_
+
+If you use MTRAG, please cite the paper as follows:
+
+```
+@misc{katsis2025mtrag,
+      title={MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems}, 
+      author={Yannis Katsis and Sara Rosenthal and Kshitij Fadnis and Chulaka Gunasekara and Young-Suk Lee and Lucian Popa and Vraj Shah and Huaiyu Zhu and Danish Contractor and Marina Danilevsky},
+      year={2025},
+      eprint={2501.03468},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.03468}, 
+}
+```
 
 ## Corpora
 
