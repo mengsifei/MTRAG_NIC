@@ -12,6 +12,8 @@ Each retrieval task requires the corpus, qrels, and questions:
 |  FiQA |   [corpus](/corpora/fiqa.jsonl) | [qrels](fiqa/qrels/dev.tsv) | [queries](fiqa/fiqa_rewrite.jsonl) | [queries](fiqa/fiqa_lastturn.jsonl) | [queries](fiqa/) | [queries](fiqa/fiqa_questions.jsonl) |
 |  Govt |   [corpus](/corpora/govt.jsonl) | [qrels](govtqrels/dev.tsv/) | [queries](govt/govt_rewrite.jsonl) | [queries](govt/govt_lastturn.jsonl) | [queries](govt/govt_questions.jsonl) |
 
+>[!NOTE]  
+>When processing the input for ingestion into the index we split long contexts into 512 token chunks (with 100 token overlap). In the dev.tsv files you see that chunk id which will have two additional offsets. For example, the first corpus-id in https://github.com/IBM/mt-rag-benchmark/blob/main/human/retrieval_tasks/clapnq/qrels/dev.tsv is  `822086267_7384-8758-0-1374`. The corresponding corpus ID can be found in https://github.com/IBM/mt-rag-benchmark/blob/main/corpora/clapnq.jsonl.zip by searching for `822086267_7384-8758` - dropping the last two values that are the offsets within the correct relevant passage.
 
 In addition to the formats above, we provide a script [scripts/conversations2retrieval.py](/scripts/conversations2retrieval.py) for converting from the conversation format to the beir format. This script can be used to try different input and modified with your own rewrites. An example command for converting to the last turn only is below:
 
