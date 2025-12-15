@@ -27,3 +27,7 @@
 
 !synthetic/
 !synthetic/**
+
+human/retrieval_tasks/clapnq/clapnq.jsonl
+human/retrieval_tasks/cloud/cloud.jsonl
+human/retrieval_tasks/govt/govt.jsonl
