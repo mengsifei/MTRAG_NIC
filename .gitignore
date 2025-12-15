@@ -1,0 +1,29 @@
+# 忽略整个 bge 文件夹（无论在项目哪个层级）
+**/bge/
+
+# 忽略所有 .zip 压缩文件（无论在项目哪个层级）
+*.zip
+*/
+
+# 保留 outputs 文件夹及其内容
+!scores/
+!scores/**
+
+!outputs/
+!outputs/**
+
+
+!human/
+!human/**
+
+
+!corpora/
+!corpora/**
+
+
+!scripts/
+!scripts/**
+
+
+!synthetic/
+!synthetic/**

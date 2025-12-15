@@ -1,0 +1,7 @@
+2025-12-14 19:54:15 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: Jasper-Token-Compression-600M
+2025-12-14 19:54:37 - INFO - sentence_transformers.SentenceTransformer - 1 prompt is loaded, with the key: query
+2025-12-14 19:54:39 - WARNING - accelerate.utils.other - Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-12-14 19:56:48 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-1-epoch
+2025-12-14 19:59:00 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-1-epoch
+2025-12-14 20:05:19 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-1-epoch
+2025-12-14 20:06:29 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-1-epoch

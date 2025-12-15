@@ -1,0 +1,19 @@
+2025-12-14 14:00:01 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: Jasper-Token-Compression-600M
+2025-12-14 14:00:19 - INFO - sentence_transformers.SentenceTransformer - 1 prompt is loaded, with the key: query
+2025-12-14 14:00:20 - WARNING - accelerate.utils.other - Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-12-14 14:02:34 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:04:46 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:06:57 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:09:09 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:11:20 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:13:45 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:18:01 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:24:07 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:24:42 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:26:52 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:31:05 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:33:17 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:35:29 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:37:55 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 14:47:55 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
+2025-12-14 15:43:33 - INFO - sentence_transformers.SentenceTransformer - Save model to jasper-token-compression-600M-rag-ft-old-10-epoch
